@@ -11,6 +11,7 @@ Tetris ReadME
           gameplay and logic.
 
 Design Choices:
+
         Each Tetris piece is made of four squares, so I created moveRight, moveLeft, and moveDown methods in 
         BoardSquare and looped through the squares in Tetris to move them individually.
         
